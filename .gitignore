@@ -1,0 +1,74 @@
+# Build directories
+build/
+cmake-build-*/
+
+# Compiled Object files
+*.o
+*.obj
+*.ko
+*.elf
+
+# Linker output
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+basketball_tracker
+test_*
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Output videos (too large)
+output_*.mp4
+*.avi
+tracked_*.mp4
+
+# Models (large files - consider Git LFS)
+*.onnx
+*.pt
+*.weights
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+notebooks/**/runs/
+
+# Documentation (generated)
+docs/html/
+docs/latex/
+docs/xml/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Datasets (download via Roboflow)
+datasets/
+data/downloads/
