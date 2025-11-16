@@ -44,7 +44,7 @@ Basketball_Analyser/
 - OpenCV 4.x
 - ONNX Runtime
 
-### Model Training (Optional)
+### Model Training
 - Python 3.8+
 - Ultralytics YOLOv8
 - Roboflow
@@ -77,9 +77,7 @@ make -j$(nproc)
 
 ### 3. Get the YOLO model
 
-**Option A: Use pre-trained model** (included in `models/basketball_model.onnx`)
-
-**Option B: Train your own model**
+**Train your own model**
 ```bash
 # Install Python dependencies
 pip install ultralytics roboflow
