@@ -72,3 +72,16 @@ Thumbs.db
 # Datasets (download via Roboflow)
 datasets/
 data/downloads/
+
+# Large video files (>50MB)
+data/videos/*.mp4
+data/videos/*.avi
+output_*.mp4
+*.avi
+tracked_*.mp4
+
+
+# Models (large files - already pushed, but ignore future changes)
+models/*.onnx
+models/*.pt
+models/*.weights
