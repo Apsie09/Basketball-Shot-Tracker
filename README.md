@@ -243,6 +243,4 @@ Basketball_Analyser/
 
 Asen Popov - asepopov@tu-sofia.bg
 
-Project Link: [https://github.com/Apsie09/Basketball-Shot-Tracker](https://github.com/YOUR_USERNAME/basketball-shot-tracker)
-
 ---
