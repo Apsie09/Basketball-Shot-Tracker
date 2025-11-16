@@ -213,8 +213,8 @@ Basketball_Analyser/
 
 **Course**: Programming Languages  
 **Year**: 3, Semester 5  
-**University**: [Your University Name]  
-**Author**: [Your Name]
+**University**: Technical University of Sofia  
+**Author**: Asen Popov
 
 ### Project Goals
 - Implement real-time object detection in C++
