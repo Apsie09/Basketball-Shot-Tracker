@@ -20,7 +20,7 @@ cmake-build-*/
 *.out
 *.app
 basketball_tracker
-test_*
+build/test_*
 
 # CMake
 CMakeCache.txt
